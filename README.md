@@ -3,9 +3,9 @@ HR_Analyst_Dashboard
 
 📚 Task I performed:
 
- 1.Load data in Power Bi
+ 1. Load data in Power Bi
 
- 2.Some ETL Process(Data Cleaning)
+ 2. Some ETL Process(Data Cleaning)
 
  3. work on some dax function (Avg_salary, avg_age, year with text, total_emp etc.)
 
